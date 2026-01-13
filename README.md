@@ -13,7 +13,7 @@ E-Summit is the flagship entrepreneurial event of BITS Pilani, Dubai Campus, aim
 ---
 ## Management
 
-This GitHub account is managed by **Manav Arya Singh and Ashmit Dhown **  
+This GitHub account is managed by **Manav Arya Singh and Ashmit Dhown**  
 GitHub: [Manavarya09](https://github.com/Manavarya09)  
 Role: **Technical Lead – E-Summit BPDC**
 
