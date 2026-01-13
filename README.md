@@ -4,6 +4,10 @@ Official GitHub organization for **E-Summit, BITS Pilani Dubai Campus**.
 
 This space hosts the codebases and technical assets used to build, manage, and deploy digital platforms for E-Summit BPDC.
 
+E-summit Website - https://www.esummitbpdc.com </br>
+
+E-summit admin Website - https://admin.esummitbpdc.com </br>
+
 ---
 
 ## About
