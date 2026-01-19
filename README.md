@@ -40,7 +40,7 @@ Varies by repository, commonly including:
 - React / Next.js / Vite  
 - Node.js  
 - Tailwind CSS / SCSS  
-- Firebase / MongoDB  
+- Pocketbase / MongoDB  
 - GitHub Actions  
 
 ---
